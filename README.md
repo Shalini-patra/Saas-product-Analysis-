@@ -8,6 +8,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
+![Dashboard Preview](Saas_Analytics_Dashboard.pdf)
+
+🔗 [View Full Interactive Dashboard](https://datastudio.google.com/reporting/0179066d-e14b-4a04-91ff-bece66ddc984)
+
+---
 
 ## 📌 Project Overview
 
