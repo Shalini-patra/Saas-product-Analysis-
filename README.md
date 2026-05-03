@@ -38,9 +38,7 @@ This project delivers all three — a realistic multi-table dataset, SQL and Pyt
 ```
 pdfpulse-analytics/
 │
-├── generate_editevolv_demo_data.py   # Generates all 11 CSV tables (214K rows)
-│
-├── editevolv_demo_data/              # Generated CSV files
+├── editevolv_demo_data/              
 │   ├── A1_Users_Sessions.csv
 │   ├── A2_Engagement_Pages.csv
 │   ├── B1_Core_Revenue.csv
@@ -53,28 +51,10 @@ pdfpulse-analytics/
 │   ├── E1_Location.csv
 │   └── subscriptions.csv
 │
-├── sql/                              # SQL problem statement queries
-│   ├── PS1_channel_roas.sql
-│   ├── PS2_bounce_anomalies.sql
-│   ├── PS3_churn_signals.sql
-│   ├── PS4_geo_revenue_gap.sql
-│   └── PS5_device_conversion_gap.sql
-│
-├── python/                           # Python analysis notebooks
-│   ├── PS6_traffic_forecast.ipynb
-│   ├── PS7_campaign_attribution.ipynb
-│   ├── PS8_user_segmentation.ipynb
-│   └── PS9_subscription_ltv.ipynb
-│
-├── dashboard/                        # Dashboard design assets
-│   ├── blueprint.png                 # 7-page layout blueprint
-│   ├── color_palette.md
-│   └── calculated_fields.md
-│
-├── reports/
-│   └── PDFPulse_Analytics_Report.docx
-│
-└── README.md
+├── PDFPulse_Analytics_Report.docx
+├── README.md
+├──Saas_Analytics_Dashboard.pdf
+└──index.html
 ```
 
 ---
